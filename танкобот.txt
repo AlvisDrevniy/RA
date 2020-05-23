@@ -1,0 +1,11 @@
+Не трогать папки Devel и Build
+Catkin_ws
+смотреть что происходит rotopic echo <topic name>
+геймпад rosrun joy joy_node
+коннект к стмке rosrun rosserial_python serial_node.py <port e.g /dev/ttyUSBX>
+управление с геймпада rosrun controller talker.py
+старт лидара roslaunch rplidar_ros rplidar.launch
+перебилдить catkin_make
+лаунчфайл centaurSB/encoder-odom
+RPLIDAR A1
+
